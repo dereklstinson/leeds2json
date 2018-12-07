@@ -16,8 +16,5 @@ http://sam.johnson.io/research/lspet.html
    booktitle = {Proceedings of Computer Vision and Pattern Recognition (CVPR) 2011}
 }
 
-E-mail: s.a.johnson04@leeds.ac.uk
-
-
 <img src="im00001.jpg" alt="First Image in Dataset" />
 <img src="im00001.png" alt="Now it is dotified" />
